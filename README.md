@@ -1,1 +1,1 @@
-# CET-350-Java-Projects
+Projects created for a college level course in java, CET 350.
