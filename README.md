@@ -1,1 +1,1 @@
-Projects created for a college level course in java, CET 350.
+Projects created for a college level course in java, CET 350. Chat.java is a simple chat program. Main.java is a simple file directory program, where you can copy the contents of a file to another file. BallVSCannon is a simple game where the player tries to shoot the ball with a projectile fired from the cannon.
